@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vavilon2142
 - 👀 I’m interested in Analytics and DATA Science
-- 🌱 I’m currently learning Python, SQL
-- 💞️ I’m looking to collaborate on SQL projects 
+- 🌱 Doing some Python magic along with creating databases/microservices
 - 📫 How to reach me vavilon2142@gmail.com
 
 <!---
